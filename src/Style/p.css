@@ -1,0 +1,9 @@
+.huruf{
+    color: blue;
+}
+.teks{
+    color: rgb(255, 221, 229) ;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
